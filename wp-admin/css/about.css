@@ -34,7 +34,7 @@
 	--accent-3: #ededed; /* hr background */
 
 	/* Navigation colors. */
-	--nav-background: #fff;
+	--nav-background: #000000;
 	--nav-border: transparent;
 	--nav-color: var(--text);
 	--nav-current: var(--accent-1);
